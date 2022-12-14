@@ -1,9 +1,9 @@
 ---
-title: "Hugo Grayscale Theme"
-date: 2018-09-09T00:00:00-00:00
-copyright: "Your Website"
-description: "A port of the Grayscale theme to Hugo"
+title: "Flipping Board"
+date: 2021-12-31T00:00:00-23:59
+copyright: "Flipping Board"
+description: "A Serious Parkour Game"
 
 menu:
-    - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
+    - {url: "https://github.com/skb-developers/game_release/releases", name: "Download"}
 ---
