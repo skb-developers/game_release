@@ -1,0 +1,16 @@
+baseURL = "https://skb-developers.github.io/game_release/"
+languageCode = "en-us"
+title = "Flipping Board"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Flipping Board"
+
+[Author]
+    name = "Qiuhong Chen"
+    email = "chenqiuhong45@gmail.com"
+
+[Social]
