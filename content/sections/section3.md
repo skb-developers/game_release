@@ -5,7 +5,7 @@ weight: 2
 
 ## Contact Us
 
-You can access the GitHub profiles of the four developer from the link below. You can find their emails and links to their personal homepages.
+You can access the GitHub profiles of the two developer from the link below. You can find their links to their personal homepages.
 
 {{< big-button text="Qiuhong Chen" href="https://github.com/IceShip423" >}}
 
