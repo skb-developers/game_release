@@ -1,13 +1,12 @@
 ---
-title: "Contact"
-weight: 4
+title: "Developers"
+weight: 2
 ---
 
-## Contact Start Bootstrap
+## Contact Us
 
-Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
+You can access the GitHub profiles of the four developer from the link below. You can find their emails and links to their personal homepages.
 
-{{< socialhandles >}}
-    {{< twitter user="stream_running" >}}
-    {{< github user="runningstream" >}}
-{{< /socialhandles >}}
+{{< big-button text="Qiuhong Chen" href="https://github.com/IceShip423" >}}
+
+{{< big-button text="Ziqi Guo" href="https://github.com/Epsilon404" >}}

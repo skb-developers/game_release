@@ -3,10 +3,10 @@ title: "About"
 weight: 2
 ---
 
-## About Grayscale
+## About Flipping Board
 
-Grayscale is a free Hugo theme, originally created for Bootstrap by Start Bootstrap. It can be yours right now, simply download the template from [the Github page](https://github.com/runningstream/hugograyscale/). The theme is open source, and you can use it for any purpose, personal or commercial.
+Having lived in Shenzhen for three years, I visited many local museums during my spare time from college. I was surprised that this huge city grew from a small village in only 40 years, thanks to the Reform and Opening Up policy. This inspire me to make this game.
 
-This theme was adapted from a Jekyll version, brought to you by [Jerome Lachaud](https://github.com/jeromelachaud)
+When the character is skateboarding along the coastline, the player needs to rotate the character to pass the level. When the character rotates, the time of the day advances, affecting the scene display and implying the passage of time.
 
-This theme features stock photos by [Gratisography](http://gratisography.com/) along with a custom Google Maps skin courtesy of [Snazzy Maps](http://snazzymaps.com/).
+The days flow, the history also flows. The scene displays Shenzhen landmarks in different periods of time, from the 1980s to the 2010s, as if the character were skateboarding through the history of Shenzhen. 

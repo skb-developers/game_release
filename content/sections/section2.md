@@ -4,8 +4,8 @@ weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
+## Download Flipping Board
 
-You can download Grayscale for free from the Github page.
+You can download **Flipping Board** for free from the Github page.
 
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+{{< big-button text="Visit Download Page" href="https://github.com/skb-developers/game_release/releases" >}}
