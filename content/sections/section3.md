@@ -1,13 +1,12 @@
 ---
-title: "Links"
-weight: 3
-improvecontrast: true
+title: "Developers"
+weight: 4
 ---
 
-## Download Flipping Board
+## Contact Us
 
-You can download **Flipping Board** for free from the Github page.
+You can access the GitHub profiles of the two developer from the link below. You can find their links to their personal homepages.
 
-{{< big-button text="Visit Download Page" href="https://github.com/skb-developers/game_release/releases" >}}
+{{< big-button text="Qiuhong Chen" href="https://github.com/IceShip423" >}}
 
-{{< bilibili 1tP4y1v7MV >}}
+{{< big-button text="Ziqi Guo" href="https://github.com/Epsilon404" >}}
